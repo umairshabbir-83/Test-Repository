@@ -1,0 +1,39 @@
+body {
+  background-size: Cover;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("New.jpg");
+  color: Black;
+  font-family: Monospace;
+  font-size: 20px;
+  padding: 15px;
+}
+
+h1 {
+  background: Black;
+  border-bottom-right-radius: 25px;
+  border-top-left-radius: 25px;
+  border: Solid;
+  color: White;
+  font-family: Algerian;
+  letter-spacing: 15px;
+  padding: 15px;
+  text-align: Center;
+}
+
+footer {
+  color: White;
+  font-size: 24px;
+  padding: 15px;
+  text-align: Center;
+}
+
+input[type="submit"] {
+  background-color: Black;
+  border-radius: 10px;
+  border: Solid;
+  color: white;
+  cursor: Pointer;
+  font-family: Monospace;
+  font-size: 20px;
+  padding: 15px;
+}

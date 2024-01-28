@@ -1,0 +1,43 @@
+body {
+  background-size: Cover;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("Home.jpg");
+  font-family: Monospace;
+  font-weight: bolder;
+  padding: 15px;
+}
+
+h1 {
+  background: Black;
+  border-bottom-right-radius: 25px;
+  border-top-left-radius: 25px;
+  border: Solid;
+  color: White;
+  font-family: Algerian;
+  letter-spacing: 30px;
+  padding: 15px;
+  text-align: Center;
+}
+
+footer {
+  color: White;
+  font-family: Monospace;
+  font-size: 24px;
+  padding: 15px;
+  text-align: Center;
+}
+
+a:link {
+  color: #ffffff;
+  display: Block;
+  font-size: 24px;
+  padding-top: 25px;
+  padding: 2%;
+  text-align: Center;
+  text-decoration: None;
+  text-transform: Uppercase;
+}
+
+a:visited {
+  color: burlywood;
+}
